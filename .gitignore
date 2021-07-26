@@ -1,0 +1,6 @@
+/my.cnf
+/static/*
+/templates/holder/
+/.idea
+/__pycache__
+/.env
